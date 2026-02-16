@@ -29,10 +29,5 @@ Predicción de niveles de expresión en 13 regiones cerebrales a partir del tran
 * **Validación**: Esquema de validación cruzada en 10 pliegues (*folds*).
 
 
-## Stack Tecnológico
-* **Lenguajes**: R y Bash.
-* **Software Clave**: Docker, HISAT2, Samtools, HTSeq, DESeq2.
-* **Foco del Análisis**: Caracterización de genes de riesgo de alta confianza, específicamente **FES**, **KCNK4** y **FKBP2**.
-
 ---
 *Nota: Este proyecto constituye un Trabajo de Fin de Grado (TFG) en Bioinformática. Se han omitido referencias personales e institucionales para garantizar el anonimato en el proceso de selección.*
